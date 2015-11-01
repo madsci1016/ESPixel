@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -2933,7 +2933,7 @@ high speed (Philips)</description>
 <part name="C1" library="SparkFun-Capacitors" deviceset="CAP" device="EZ" value=".1u"/>
 <part name="C2" library="SparkFun-Capacitors" deviceset="CAP_POL" device="PTH2" value="10u"/>
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
-<part name="R1" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="10k"/>
+<part name="R1" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="330"/>
 <part name="SUPPLY6" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="SUPPLY7" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
@@ -2946,7 +2946,7 @@ high speed (Philips)</description>
 <part name="PAD5" library="wirepad" deviceset="2,15/1,0" device=""/>
 <part name="S1" library="SparkFun-Retired" deviceset="TAC_SWITCH" device="PTH"/>
 <part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="2N7000"/>
-<part name="R2" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="10k"/>
+<part name="R2" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="330"/>
 <part name="SUPPLY9" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="FRAME1" library="frames" deviceset="LETTER_L" device=""/>
 <part name="GND6" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
