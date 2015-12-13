@@ -147,10 +147,6 @@
 <text x="11.938" y="51.562" size="1.27" layer="25">No Warranty Expressed
 or Implied</text>
 <text x="22.352" y="16.256" size="1.27" layer="25">RevC</text>
-<wire x1="30.226" y1="22.86" x2="30.226" y2="21.082" width="0.4064" layer="25"/>
-<wire x1="30.226" y1="21.082" x2="32.766" y2="21.082" width="0.4064" layer="25"/>
-<wire x1="32.766" y1="21.082" x2="32.766" y2="22.86" width="0.4064" layer="25"/>
-<text x="31.242" y="19.558" size="1.016" layer="25">Short for 5V </text>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
