@@ -150,7 +150,7 @@ or Implied</text>
 <wire x1="30.226" y1="22.86" x2="30.226" y2="21.082" width="0.4064" layer="25"/>
 <wire x1="30.226" y1="21.082" x2="32.766" y2="21.082" width="0.4064" layer="25"/>
 <wire x1="32.766" y1="21.082" x2="32.766" y2="22.86" width="0.4064" layer="25"/>
-<text x="31.242" y="19.05" size="1.016" layer="25">Short for 5V </text>
+<text x="31.242" y="19.558" size="1.016" layer="25">Short for 5V </text>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
@@ -748,18 +748,12 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="STOREFRONT_ID" value="PRT-08432" x="14.986" y="41.402" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="S1" library="SparkFun-Retired" package="TACTILE-PTH" value="" x="28.702" y="36.068"/>
-<element name="Q1" library="SparkFun-DiscreteSemi" package="TO-92" value="MOSFET-NCHANNEL2N7000" x="37.846" y="23.876" smashed="yes">
-<attribute name="NAME" x="40.005" y="26.289" size="0.4064" layer="25" ratio="10"/>
-<attribute name="VALUE" x="42.926" y="19.177" size="0.4064" layer="27" ratio="10" rot="R90"/>
-</element>
+<element name="Q1" library="SparkFun-DiscreteSemi" package="TO-92" value="MOSFET-NCHANNEL2N7000" x="37.846" y="23.876"/>
 <element name="R2" library="SparkFun-Resistors" package="AXIAL-0.3EZ" value="330" x="32.766" y="28.194"/>
 <element name="D1" library="diode" package="DO35-7" value="1N4148DO35-7" x="30.734" y="49.022" smashed="yes">
 <attribute name="NAME" x="28.448" y="50.292" size="1.27" layer="25" ratio="10"/>
 </element>
-<element name="IC1" library="linear" package="TO92" value="78L05Z" x="31.496" y="23.876" smashed="yes">
-<attribute name="NAME" x="33.147" y="25.908" size="1.27" layer="25" ratio="10"/>
-<attribute name="VALUE" x="33.401" y="20.574" size="1.27" layer="27" ratio="10"/>
-</element>
+<element name="IC1" library="linear" package="TO92" value="78L05Z" x="31.496" y="23.876"/>
 </elements>
 <signals>
 <signal name="N$1">
